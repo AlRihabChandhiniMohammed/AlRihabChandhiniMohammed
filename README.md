@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:2D1B4E,100:1A0B2E&customColorList=6,11,20&height=230&section=header&text=Chandhini%20Mohammed&fontSize=46&fontColor=F6A6E0&animation=twinkling&fontAlignY=32&desc=AI%20%2B%20Frontend%20Developer%20%C2%B7%20Founder%20%40%20EduAltTech%20%C2%B7%20Building%20with%20AI%20%26%20Design&descAlignY=52&descSize=16&descColor=E6D9F5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:2D1B4E,100:1A0B2E&customColorList=6,11,20&height=120&section=header&text=Chandhini%20Mohammed&fontSize=28&fontColor=F6A6E0&animation=twinkling&fontAlignY=38&desc=AI%20%2B%20Frontend%20Developer%20%C2%B7%20Founder%20%40%20EduAltTech&descAlignY=62&descSize=12&descColor=E6D9F5"/>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
-
-<a href="https://github.com/your-username">
+<a href="https://github.com/AlRihabChandhiniMohammed">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=F6A6E0&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Products+%F0%9F%A4%96%E2%9C%A8;Designing+Interfaces+People+Love+%F0%9F%8E%80;Solving+200%2B+DSA+Problems+%F0%9F%A7%A9;Leading+EduAltTech+as+CEO+%F0%9F%92%AB;Currently%3A+Debugging+%26+Dreaming+Big+%F0%9F%8C%B8" alt="Typing SVG" />
 </a>
 
@@ -12,11 +10,11 @@
 
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:alrihabchandhinimohammed@gmail.com"><img src="https://img.shields.io/badge/Email-BF91F3?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/AlRihabChandhiniMohammed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/u/chandhinimohammed/"><img src="https://img.shields.io/badge/LeetCode-F6A6E0?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.hackerrank.com/profile/alrihabchandhin1"><img src="https://img.shields.io/badge/HackerRank-38BDAE?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&color=e75480&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=AlRihabChandhiniMohammed&color=e75480&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -73,7 +71,7 @@ chandhini_mohammed:
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/AlRihabChandhiniMohammed/AlRihabChandhiniMohammed/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 <!--END_SECTION:snake-->
 
 <sub>✨ Auto-generated nightly from live contribution graph — see setup note below</sub>
@@ -86,12 +84,12 @@ chandhini_mohammed:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A0B2E&title_color=F6A6E0&icon_color=BF91F3&text_color=E6D9F5&border_radius=10" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=F6A6E0&text_color=E6D9F5&border_radius=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlRihabChandhiniMohammed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A0B2E&title_color=F6A6E0&icon_color=BF91F3&text_color=E6D9F5&border_radius=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlRihabChandhiniMohammed&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=F6A6E0&text_color=E6D9F5&border_radius=10" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true&background=1A0B2E&ring=F6A6E0&fire=E75480&sideLabels=BF91F3&dates=C9A9D9&currStreakLabel=F6A6E0&currStreakNum=E6D9F5&sideNums=E6D9F5&stroke=1A0B2E&border_radius=10" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=AlRihabChandhiniMohammed&theme=radical&hide_border=true&background=1A0B2E&ring=F6A6E0&fire=E75480&sideLabels=BF91F3&dates=C9A9D9&currStreakLabel=F6A6E0&currStreakNum=E6D9F5&sideNums=E6D9F5&stroke=1A0B2E&border_radius=10" width="80%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=redical&bg_color=1A0B2E&color=f6a6e0&line=e75480&point=bf91f3&area=true&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlRihabChandhiniMohammed&theme=redical&bg_color=1A0B2E&color=f6a6e0&line=e75480&point=bf91f3&area=true&hide_border=true" width="90%"/>
 
 </div>
 
@@ -162,9 +160,9 @@ timeline
 
 | | Project | Stack | What it does |
 |---|---|---|---|
-| 🩺 | **[Healthcare AI Chatbot](https://github.com/your-username/healthcare-ai-chatbot)** | Python · PyTorch · Hugging Face · NLTK · Streamlit | NLP-powered health assistant answering basic health queries via an interactive UI |
-| 🍳 | **[Recipedia](https://github.com/your-username/recipedia)** | React · Node.js · Express · MongoDB | Full-stack recipe-sharing platform — auth, saved collections, search & share |
-| ✍️ | **[Scribble Writer](https://github.com/your-username/scribble-writer)** | TensorFlow · OpenCV · Keras · Tesseract OCR | CRNN-based handwriting recognition turning notes into editable digital text |
+| 🩺 | **[Healthcare AI Chatbot](https://github.com/AlRihabChandhiniMohammed/healthcare-ai-chatbot)** | Python · PyTorch · Hugging Face · NLTK · Streamlit | NLP-powered health assistant answering basic health queries via an interactive UI |
+| 🍳 | **[Recipedia](https://github.com/AlRihabChandhiniMohammed/recipedia)** | React · Node.js · Express · MongoDB | Full-stack recipe-sharing platform — auth, saved collections, search & share |
+| ✍️ | **[Scribble Writer](https://github.com/AlRihabChandhiniMohammed/scribble-writer)** | TensorFlow · OpenCV · Keras · Tesseract OCR | CRNN-based handwriting recognition turning notes into editable digital text |
 
 </div>
 
@@ -174,7 +172,7 @@ timeline
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlRihabChandhiniMohammed&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 | 🎖️ | Achievement | Details |
 |:---:|---|---|
@@ -227,12 +225,10 @@ timeline
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Email](https://img.shields.io/badge/-Email-BF91F3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alrihabchandhinimohammed@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlRihabChandhiniMohammed)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:2D1B4E,100:1A0B2E&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:2D1B4E,100:1A0B2E&customColorList=6,11,20&height=90&section=footer"/>
 
 </div>
