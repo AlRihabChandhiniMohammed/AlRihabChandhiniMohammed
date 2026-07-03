@@ -53,14 +53,52 @@ chandhini_mohammed:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,py,js,html,css,nodejs,express,mysql,figma,git,github,vscode&theme=dark" />
+**🧠 Languages**
+
+<img src="https://skillicons.dev/icons?i=c,java,py,js,ts&theme=dark" />
 
 <br/><br/>
 
+**🎨 Frontend & Web**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,figma&theme=dark" />
+
+<br/><br/>
+
+**⚙️ Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
+
+<br/><br/>
+
+**🤖 AI / ML / Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-BF91F3?style=for-the-badge&logo=databricks&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<br/>
+
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-E75480?style=for-the-badge&logo=openai&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-BF91F3?style=for-the-badge&logo=tensorflow&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-F6A6E0?style=for-the-badge&logo=figma&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-F6A6E0?style=for-the-badge&logo=googlescholar&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-38BDAE?style=for-the-badge&logo=leetcode&logoColor=white)
+
+<br/><br/>
+
+**🛠️ Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux&theme=dark" />
+
+<br/><br/>
+
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-F6A6E0?style=for-the-badge&logo=figma&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-1A0B2E?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
