@@ -23,6 +23,29 @@
 
 ---
 
+### 🎯 Currently
+
+```text
+🔭 Working On   : [name your current project]
+📚 Learning     : [current course / language / framework]
+🎯 2026 Goal    : [e.g. "Build 5 real projects" / "Contribute to open source"]
+💬 Ask Me About : [topics you're comfortable helping others with]
+```
+
+---
+
+### 📌 Featured Projects
+
+> Pin your best 3–6 repos on your GitHub profile (Customize your pins → pick repos) — this table is a manual highlight reel for the ones you're proudest of.
+
+| Project | What it does | Tech |
+|---|---|---|
+| [project-name](#) | One-line description of the problem it solves | Python |
+| [project-name](#) | One-line description of the problem it solves | JavaScript |
+| [project-name](#) | One-line description of the problem it solves | Java |
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
