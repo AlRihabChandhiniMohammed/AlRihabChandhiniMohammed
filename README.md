@@ -15,20 +15,23 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently a **student**, learning to code and exploring the world of software development
-- 🌱 Diving into new languages, frameworks, and tools — one commit at a time
-- 💡 I enjoy solving problems, building small projects, and leveling up my skills
-- 🤝 Looking to collaborate on beginner-friendly and open-source projects
-- 📫 Always happy to connect and learn from others in the dev community
+- Currently a **student**, learning to code and exploring the world of software development
+- Diving into new languages, frameworks, and tools - one commit at a time
+- I enjoy solving problems, building small projects, and leveling up my skills
+- Looking to collaborate on beginner-friendly and open-source projects
+- Always happy to connect and learn from others in the dev community
 
 ---
 
 ### 🎯 Currently
----
-🔭 Working On   : Edu Alt Tech LMS Platform & AI-Powered Educational Solutions
-📚 Learning     : Generative AI, DSA (Java), and System Design
-🎯 2026 Goal    : Secure a Software/AI Engineer role, build impactful AI projects, and contribute to open source
-💬 Ask Me About : AI, Web Development, DSA, UI/UX, and Career Guidance for Students
+🔭 **Working On:** Edu Alt Tech LMS Platform & AI-Powered Educational Solutions
+
+📚 **Learning:** Generative AI, DSA (Java), and System Design
+
+🎯 **2026 Goal:** Secure a Software/AI Engineer role, build impactful AI projects, and contribute to open source
+
+💬 **Ask Me About:** AI, Web Development, DSA, UI/UX, and Career Guidance for Students
+
 
 ---
 
