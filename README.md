@@ -24,7 +24,7 @@
 ---
 
 ### 🎯 Currently
-
+---
 🔭 Working On   : Edu Alt Tech LMS Platform & AI-Powered Educational Solutions
 📚 Learning     : Generative AI, DSA (Java), and System Design
 🎯 2026 Goal    : Secure a Software/AI Engineer role, build impactful AI projects, and contribute to open source
