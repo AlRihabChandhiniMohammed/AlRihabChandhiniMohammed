@@ -52,22 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlRihabChandhiniMohammed&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlRihabChandhiniMohammed&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlRihabChandhiniMohammed&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlRihabChandhiniMohammed&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 🔥 Contribution Graph
 
